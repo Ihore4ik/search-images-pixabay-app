@@ -1,0 +1,11 @@
+.search input{
+    line-height: 2rem;
+    outline: none;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+.search input[type=text]{
+    width: 60%;
+
+
+}
